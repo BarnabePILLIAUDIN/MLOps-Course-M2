@@ -1,8 +1,9 @@
-# MLOps – Course
+# MLOps – Course (Barnabé PILLIAUDIN - MSI-26-DO-1-B - SUP DE VINCI)
 
 This repository contains the slides, labs, and project scaffold for a  MLOps training:
 
 ## Structure
+
 ```
 mlops_2day_course/
 ├── slides/
@@ -18,6 +19,7 @@ mlops_2day_course/
 ```
 
 ## Quickstart
+
 ```bash
 # create & activate env
 python3 -m venv .venv && source .venv/bin/activate
@@ -29,3 +31,7 @@ make -C project/ml_microservice run
 # run tests
 make -C project/ml_microservice test
 ```
+
+## Labs submissions
+
+- Lab 1: See commit `final submission lab 1`
