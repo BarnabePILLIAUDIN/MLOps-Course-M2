@@ -36,3 +36,4 @@ make -C project/ml_microservice test
 
 - Lab 1: See commit `final submission lab 1`
 - Lab 2: See commit `final submission lab 2`
+- Lab 3-MLFLOW: See commit `final submission lab 3-mlflow`
