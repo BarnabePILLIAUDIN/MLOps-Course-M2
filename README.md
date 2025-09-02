@@ -35,3 +35,4 @@ make -C project/ml_microservice test
 ## Labs submissions
 
 - Lab 1: See commit `final submission lab 1`
+- Lab 2: See commit `final submission lab 2`
